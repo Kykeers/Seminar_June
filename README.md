@@ -7,4 +7,4 @@
 # Git push -u origin name
 * Это отправление какой либо информации из локального репзитория в удаленный
 
-# git add .\README.md
+# git add .\README.md 
